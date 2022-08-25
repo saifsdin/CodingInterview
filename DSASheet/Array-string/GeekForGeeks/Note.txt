@@ -1,0 +1,3 @@
+Array Problem
+URL:
+https://practice.geeksforgeeks.org/explore?page=1&category[]=Arrays&difficulty[]=-2&sortBy=submissions&utm_source=gfg&utm_medium=gfg_header&utm_campaign=gfgpractice_header
