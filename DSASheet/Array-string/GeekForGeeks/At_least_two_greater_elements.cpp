@@ -45,6 +45,43 @@ public:
         return v;
         
     }
+
+    public:
+    vector<int> findElements(int a[], int n)
+    {
+        // Your code goes here 
+        int First=INT_MIN;
+       int Second=INT_MIN;
+       
+       for(int i=0;i<n;i++)
+       {
+           if(First<a[i])
+           {
+               Second=First;
+               First=a[i];
+           }
+           if(Second<a[i] && a[i]<First)
+           {
+               Second=a[i];
+           }
+       }
+      
+       vector<int> out;
+       for(int i=0;i<n;i++)
+       {
+          
+           if( a[i]!=First && a[i]!=Second)
+           {
+            
+               out.push_back(a[i]);
+           }
+          
+       }
+       sort(out.begin(),out.end());
+
+       return out;
+        
+    }  
 };
 
 //{ Driver Code Starts.
