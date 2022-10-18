@@ -1,5 +1,5 @@
 /*
-https://practice.geeksforgeeks.org/problems/activity-selection-1587115620
+https://practice.geeksforgeeks.org/problems/activity-selection-1587115620/1
 Given N activities with their start and finish day given in array start[ ] and end[ ]. Select the maximum number of activities that can be performed by a single person, assuming that a person can only work on a single activity at a given day.
 Note : Duration of the activity includes both starting and ending day.
 

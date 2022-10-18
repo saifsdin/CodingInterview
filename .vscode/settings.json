@@ -3,6 +3,12 @@
         "vector": "cpp",
         "iosfwd": "cpp",
         "xlocale": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "xiosbase": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "stack": "cpp",
+        "type_traits": "cpp",
+        "xutility": "cpp"
     }
 }

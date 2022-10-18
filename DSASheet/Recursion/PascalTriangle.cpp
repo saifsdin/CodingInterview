@@ -1,6 +1,6 @@
 
 /*
-https://practice.geeksforgeeks.org/problems/pascal-triangle0652
+https://practice.geeksforgeeks.org/problems/pascal-triangle0652/1
 Given a positive integer N, return the Nth row of pascal's triangle.
 Pascal's triangle is a triangular array of the binomial coefficients formed by summing up the elements of previous row.
 

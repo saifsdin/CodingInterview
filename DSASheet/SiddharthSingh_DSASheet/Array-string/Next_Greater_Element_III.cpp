@@ -26,6 +26,7 @@ using namespace std;
             if(s[j] > s[i]) break;
         }
         swap(s[i], s[j]);
+        // rest of element reverse 
         reverse(s.begin() + i + 1, s.end());
         
         return stol(s) > INT_MAX ? -1 : stol(s);

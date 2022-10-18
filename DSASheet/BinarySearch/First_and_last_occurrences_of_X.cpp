@@ -1,5 +1,5 @@
 /*
-https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x2041
+https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x2041/1
 
 Given a sorted array having N elements, find the indices of the first and last occurrences of an element X in the given array.
 
