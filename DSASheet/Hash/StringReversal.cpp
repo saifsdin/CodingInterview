@@ -1,5 +1,5 @@
 /*
-https://practice.geeksforgeeks.org/problems/string-reversalunpublished-for-now5324
+https://practice.geeksforgeeks.org/problems/string-reversalunpublished-for-now5324/1
 Given a string, say S, print it in reverse manner eliminating the repeated characters and spaces.
 
 Example 1:

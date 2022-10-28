@@ -1,3 +1,4 @@
+//https://practice.geeksforgeeks.org/problems/equilibrium-index-of-an-array/1
 int equilibrium(int arr[], int n)
 {
     int sum = 0; // initialize sum of whole array

@@ -1,5 +1,5 @@
 /*
-https://practice.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion1638
+https://practice.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion1638/1
 
 Given an array arr of distinct elements of size N, the task is to rearrange the elements of the array in a zig-zag fashion so that the converted array should be in the below form: 
 

@@ -1,5 +1,5 @@
 /*
-https://practice.geeksforgeeks.org/problems/magical-number-1587115620
+https://practice.geeksforgeeks.org/problems/magical-number-1587115620/1
 Your friend loves magic and he has coined a new term - "Magical number". To perform his magic, he needs that Magic number. There are N number of people in the magic show, seated according to their ages in an ascending order. Magical number is that seat no. where the person has the same age as that of the given seat number.
 Help your friend in finding out that "Magical number"
 
