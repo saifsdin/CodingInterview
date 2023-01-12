@@ -1,6 +1,7 @@
 /*
 https://practice.geeksforgeeks.org/problems/find-pair-given-difference1559/1
-Given an array Arr[] of size L and a number N, you need to write a program to find if there exists a pair of elements in the array whose difference is N.
+Given an array Arr[] of size L and a number N, you need to write a program to 
+find if there exists a pair of elements in the array whose difference is N.
 
 Example 1:
 

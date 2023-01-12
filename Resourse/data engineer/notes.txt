@@ -1,0 +1,33 @@
+https://www.interviewquery.com/p/data-engineer-case-study#data-engineer-case-study-example
+ETL architecture and design
+“You’re tasked with building a data pipeline for POS data from a store like Walmart.
+ This data will be used by data scientists. How would you do it?”
+
+database design, data warehousing, ETL pipelines and data modeling.
+You’re tasked with building a notification system for a simple Reddit-style app.
+What’s the refresh cadence for the ETL to pipe-out notification analytics?
+
+https://medium.com/analytics-vidhya/etl-data-pipeline-in-aws-150acd6fee60
+
+understanding data engineering - ETL and cloud
+Database design
+python
+introduction to airflow in python - schedule data engineering workflow
+AWS cloud
+Building data engineering pipeline in python - pySpark ,Apache airflow
+ETL in python - sql , ETL pipeline ingest transform and load data into database
+Nosql concept
+streaming concepts - batching and streaming , scaling streaming system and real world applications
+Streaming data with aws kinesis and lambda
+
+importing data in python - excel , sql,sas
+cleaning data in python
+pandas and numpy in python
+data driven decision making in sql
+case study analysis customer churn in power bi
+analyzing election and polling data
+
+Build solutions in Hadoop - MapReduce, HDFS, Hbase, Hive, Sqoop, Presto, MongoDB, NoSQL, or Cassandra.
+
+
+

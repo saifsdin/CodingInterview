@@ -2,7 +2,9 @@
 All numbers with specific difference
 https://practice.geeksforgeeks.org/problems/all-numbers-with-specific-difference3558/1
 
-Given a positive number N and a number D.  Find the count of positive numbers smaller or equal to  N such that the difference between the number and sum of its digits is greater than or equal to given specific value D.
+Given a positive number N and a number D.  
+Find the count of positive numbers smaller or equal to  N such that the difference between the 
+number and sum of its digits is greater than or equal to given specific value D.
 
 Example 1:
 

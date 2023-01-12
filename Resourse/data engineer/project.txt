@@ -1,0 +1,5 @@
+a URL shortener application like bit.ly
+QMoney
+XCommerce - a retail sales data analysis tool
+QEats unit testing with Mockito
+XMeme
